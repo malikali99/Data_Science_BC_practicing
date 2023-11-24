@@ -1,0 +1,6 @@
+print("My name is Malik Hasnain Ali")
+print(2+3)
+print("The trainer/lecturer name of this codanics platform is Sir DR. Muhammad Aammar Tufail")
+print("We are learning python for data science with codanics platform")
+print("This is a 40 Days long course of 'Python for Data Science' ")
+print("In this course we'll learn Data science in-depth, machine learning, deep learning and computer vision. furthermore, we'll also learn about the libraries we'll use in this course like Numpy, pandas,matplotlib, scikit learn etc...")
